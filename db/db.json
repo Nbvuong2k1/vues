@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "email": "vuongspectre201@gmail.com",
+      "name": "Vuong",
+      "password": "vuongspectre19102001",
+      "id": 1
+    },
+    {
+      "email": "vuongspectre201@gmail.com",
+      "password": "vuongspectre19102001",
+      "name": "vuong",
+      "id": 2
+    },
+    {
+      "email": "vuongspectre201@gmail.com",
+      "password": "vuongspectre19102001",
+      "name": "vuong",
+      "id": 3
+    },
+    {
+      "email": "vuongspectre201@gmail.com",
+      "password": "vuongspectre19102001",
+      "name": "vuong",
+      "id": 4
+    },
+    {
+      "email": "vuongspectre201@gmail.com",
+      "password": "vuongspectre19102001",
+      "name": "vuong",
+      "id": 5
+    },
+    {
+      "email": "vuongspectre201@gmail.com",
+      "password": "vuongspectre19102001",
+      "name": "",
+      "id": 6
+    },
+    {
+      "email": "vuongspectre201@gmail.com",
+      "password": "vuongspectre19102001",
+      "name": "vuong",
+      "id": 7
+    },
+    {
+      "email": "vuongspectre201@gmail.com",
+      "password": "vuongspectre19102001",
+      "name": "Vuong",
+      "id": 8
+    },
+    {
+      "email": "thuy30122001@gmail.com",
+      "name": "Thuy",
+      "password": "ttthuy",
+      "id": 9
+    },
+    {
+      "email": "thuy30122001@gmail.com",
+      "password": "ttthuy",
+      "name": "ttthuy",
+      "id": 10
+    },
+    {
+      "email": "thuy30122001@gmail.com",
+      "name": "Thuy",
+      "password": "ttthuy",
+      "id": 11
+    },
+    {
+      "email": "vuongspectre201@gmail.com",
+      "password": "vuongspectre19102001",
+      "name": "",
+      "id": 12
+    },
+    {
+      "email": "giang60764@huce.edu.vn",
+      "password": "123",
+      "name": "giang",
+      "id": 13
+    },
+    {
+      "email": "mạnh@gmail.com",
+      "password": "123",
+      "name": "Mạnh",
+      "id": 14
+    },
+    {
+      "email": "hungml@gmail.com",
+      "password": "123",
+      "name": "Hưng",
+      "id": 15
+    },
+    {
+      "email": "oanh123@gmail.com",
+      "password": "123",
+      "name": "Oanh",
+      "id": 16
+    },
+    {
+      "email": "thao123@gmail.com",
+      "password": "123",
+      "name": "Thảo",
+      "id": 17
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Bia hơi Hải Xồm",
+      "address": "Hà Nội",
+      "contact": "0353690553",
+      "id": 1
+    },
+    {
+      "name": "Thượng Hải",
+      "address": "Nguyễn Trãi - Hà Nội",
+      "contact": "0854580708",
+      "id": 2
+    },
+    {
+      "name": "Sông Quê",
+      "address": "Thái Bình",
+      "contact": "0984494795",
+      "id": 4
+    }
+  ]
+}
